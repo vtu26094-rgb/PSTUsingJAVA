@@ -23,4 +23,5 @@ public class second_largest {
 	        System.out.println(secondHighest);
 	    }
 
+
 	}
